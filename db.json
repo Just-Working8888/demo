@@ -1,14 +1,587 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id": 430,
+        "shop": 7,
+        "category": [
+            277,
+            285
+        ],
+        "title": "Комплект термобелья Chersa, размер 44, черный",
+        "description": "Термобелье мужское выполнен из высококачественных синтетических износостойких материалов, разработанных специально для термобелья (рубчик). Мягкая эластичная ткань с легким начесом обладает отличной терморегуляцией и влагопроводимостью. Термоджемпер с овальным вырезом горловины, на рукавах манжеты.\r\nподойдет для занятий зимними видами спорта с высокой активностью, туризма и повседневной носки. Термокальсоны мужские выполнены из высококачественных синтетических износостойких материалов, разработанных специально для термобелья (рубчик). Мягкая эластичная ткань с легким начесом обладает отличной терморегуляцией и влагопроводимостью. Кальсоны с манжетами, на поясе декоративная резинка с фирменным логотипом шириной 4 см.",
+        "image": "https://bee.webtm.ru/media/product_images/no_image.png",
+        "product_attributes": [
+            {
+                "key": "Цвет товара",
+                "value": "Черный"
+            },
+            {
+                "key": "Тип",
+                "value": "комплект"
+            },
+            {
+                "key": "Состав",
+                "value": "лайкра 5%, полиамид 20%, поливискоза 75%"
+            },
+            {
+                "key": "Сезон",
+                "value": "всесезон"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 263,
+                "product": 430,
+                "image": "https://bee.webtm.ru/media/product_images/600x800_4_8teassD.webp"
+            },
+            {
+                "id": 264,
+                "product": 430,
+                "image": "https://bee.webtm.ru/media/product_images/600x800_5_lVrXoPm.webp"
+            }
+        ],
+        "price": 2178,
+        "old_price": 2286,
+        "currency": "KGS",
+        "shop_name": "stroybek",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/_93727c8f-1d8f-4af1-aa4c-46caf28d6bbd.jpg",
+        "review_count": 0,
+        "product_code": "1022971071",
+        "average_rating": null,
+        "created": "2024-02-24T14:45:29.857775+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 287,
+        "shop": 5,
+        "category": [
+            16,
+            17
+        ],
+        "title": "Мышь игровая беспроводная Logitech G502 LightSpeed Black 910-005567",
+        "description": "Мышь игровая беспроводная Logitech G502 LightSpeed Black 910-005567",
+        "image": "https://bee.webtm.ru/media/product_images/img_0_89_1011_0_1.webp",
+        "product_attributes": [
+            {
+                "key": "Категория",
+                "value": "Игровая"
+            },
+            {
+                "key": "Соединение",
+                "value": "Беспроводное"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 21,
+                "product": 287,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_89_1011_1_1.webp"
+            },
+            {
+                "id": 22,
+                "product": 287,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_89_1011_5_1.webp"
+            }
+        ],
+        "price": 16690,
+        "old_price": 17524,
+        "currency": "KGS",
+        "shop_name": "Barmak Store",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/barmank.jpeg",
+        "review_count": 0,
+        "product_code": "3221394186",
+        "average_rating": null,
+        "created": "2024-02-08T16:53:38.411991+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 394,
+        "shop": 2,
+        "category": [
+            203
+        ],
+        "title": "Взрослый набор маска + трубка ARENA",
+        "description": "Набор для подводного плавания Arena Premium - идеальное решение для любителей плавания, которые хотят больше заниматься в воде.\r\nОчки с безопасным закаленным двойным стеклом обеспечивают хорошую видимость во время погружения. Пряжка на ремне практична и легко регулируется, что позволяет быстро менять размер. Мягкий гипоаллергенный силикон в уплотнении плотно прилегает к лицу, предотвращая попадание воды под маску. Прочная трубка позволяет совершать более длительные погружения. Благодаря этому вы сможете полностью полюбоваться подводным миром.",
+        "image": "https://bee.webtm.ru/media/product_images/______ARENA.jpg",
+        "product_attributes": [
+            {
+                "key": "Тип",
+                "value": "двойные линзы из закаленного стекла большой ремешок для повышенной устойчивости и комфорта практичная и легко регулируемая пряжка Без ПВХ мундштук и ремешок: жидкий силикон маска: жидкий силикон линзы: закаленное стекло"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 218,
+                "product": 394,
+                "image": "https://bee.webtm.ru/media/product_images/______ARENA_BrWNY6O.jpg"
+            }
+        ],
+        "price": 4345,
+        "old_price": 4562,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 0,
+        "product_code": "5541873996",
+        "average_rating": null,
+        "created": "2024-02-22T19:44:36.524059+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 286,
+        "shop": 5,
+        "category": [],
+        "title": "Клавиатура игровая Bloody S98-Naraka",
+        "description": "Подсветка RGB\r\nСвободно настраивайте цвета с помощью 16.8 миллионов цветовых вариантов, создавая свою собственную уникальную RGB подсветку с возможностью самостоятельной настройки.\r\n\r\n\r\n7 игровых режимов\r\nНажмите Fn + F9 / F10, чтобы переключиться между 7 игровыми режимами.\r\n\r\n\r\n\r\nРегулируемая высота\r\nНожки клавиатуры с двумя углами наклона - 3° и 8°.\r\n\r\n\r\n25 игровых кейкапов из PBT\r\nБольшинство кейкапов для игровых гарнитур изготовлены из материала PBT (полибутилентерефталат), благодаря его долговечности. Кейкапы из PBT от Bloody имеют малый вес и быстро возвращаются в исходное положение во время игры.",
+        "image": "https://bee.webtm.ru/media/product_images/no_image.png",
+        "product_attributes": [
+            {
+                "key": "Тип клавиатуры",
+                "value": "Механическая"
+            },
+            {
+                "key": "Количество клавиш",
+                "value": "98"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 20,
+                "product": 286,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_88_605_0_1_wOvYit.webp"
+            }
+        ],
+        "price": 6290,
+        "old_price": 6604,
+        "currency": "KGS",
+        "shop_name": "Barmak Store",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/barmank.jpeg",
+        "review_count": 0,
+        "product_code": "1033417866",
+        "average_rating": null,
+        "created": "2024-02-08T16:48:16.624651+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 319,
+        "shop": 7,
+        "category": [
+            78,
+            182,
+            181
+        ],
+        "title": "Смеситель для кухни AM.PM Origin Balance (790720000)",
+        "description": "Черная ручка в сочетании с хромовым изливом С-образной формы смотрится выигрышно и эффектно. Идеальное управление: керамический картридж Light Flow обеспечивает плавное управление ручкой смесителя и оптимальную регулировку температуры и мощности потока. Безупречный внешний вид: покрытие High Gloss превышает рекомендуемые стандарты прочности и гарантирует ювелирный блеск продукта на срок более 10 лет. Экономия ресурса: уникальная разработка Damixa, аэратор EcoSave, насыщает струю воды воздухом, что позволяет сократить расход практически в два раза.",
+        "image": "https://bee.webtm.ru/media/product_images/shurup3_BnXd3aH.webp",
+        "product_attributes": [
+            {
+                "key": "Применение",
+                "value": "Для раковины"
+            },
+            {
+                "key": "Вид установки",
+                "value": "На раковину и столешницу"
+            },
+            {
+                "key": "Материал",
+                "value": "Латунь"
+            },
+            {
+                "key": "Вес",
+                "value": "2000 кг"
+            },
+            {
+                "key": "Цвет",
+                "value": "Хромированый"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 114,
+                "product": 319,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_1064_1589_0_320.webp"
+            }
+        ],
+        "price": 6553,
+        "old_price": 6880,
+        "currency": "KGS",
+        "shop_name": "stroybek",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/_93727c8f-1d8f-4af1-aa4c-46caf28d6bbd.jpg",
+        "review_count": 0,
+        "product_code": "487319",
+        "average_rating": null,
+        "created": "2024-02-11T16:51:48.482941+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 384,
+        "shop": 2,
+        "category": [
+            194
+        ],
+        "title": "Обогреватель конвекторный Electrolux ECH/AS-1500MR",
+        "description": "Электронное управление\r\nЭлектрический конвектор серии Air Stream - продукт индустриального искусства. Аэродинамическая форма конвектора не имеет аналого в мире. Специальное \"ракушечное\" покрытие нагревательного элемента позволило увеличить площадь поверхности теплоотдачи на 25% (по сравнению со стандартными монолитными нагревательными элементами). Всего за 75 секунд нагревательный элемент выходит на свою полную мощность.",
+        "image": "https://bee.webtm.ru/media/product_images/img_0_19_266_0_1_160.webp",
+        "product_attributes": [
+            {
+                "key": "Тип",
+                "value": "Конвертный"
+            },
+            {
+                "key": "Монтаж",
+                "value": "Настенный, напольный"
+            },
+            {
+                "key": "Площадь обогрева",
+                "value": "20 м²"
+            },
+            {
+                "key": "Мощность обогрева",
+                "value": "1500 Вт"
+            },
+            {
+                "key": "Тип управления",
+                "value": "Механический"
+            },
+            {
+                "key": "Термостат",
+                "value": "Да"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 194,
+                "product": 384,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_19_266_1_1_160.webp"
+            },
+            {
+                "id": 195,
+                "product": 384,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_19_266_4_1_160.webp"
+            },
+            {
+                "id": 196,
+                "product": 384,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_19_266_3_1_160.webp"
+            }
+        ],
+        "price": 5490,
+        "old_price": 6890,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 0,
+        "product_code": "1081008006",
+        "average_rating": null,
+        "created": "2024-02-22T18:53:20.080294+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 458,
+        "shop": 8,
+        "category": [
+            183
+        ],
+        "title": "Тумба под тв Aurora дуб вотан",
+        "description": "Тумба под тв Aurora поможет разместить не только аппаратуру, но и множество мелочей. Модель оборудована широкой столешницей, нишей, тремя распашными отделениями и двумя полками для теле-видео аппаратуры. Корпус тумбы выполнен из ЛДСП теплых древесных тонов в цвете дуб вотан, а прочное основание ножки – металлический профиль черного матового цвета. Приобрести Тумбу под тв Aurora по доступной цене в Бишкеке и по всему Кыргызстану приглашаем в наш магазин Decorall.kg. Заказ можно оформить здесь онлайн, по вотсап 0550-60-80-90 либо у нас в шоуруме в г. Бишкек ТЦ Аю-гранд, 1 этаж, бутик 162/15.",
+        "image": "https://bee.webtm.ru/media/product_images/1_omcX8SY.png",
+        "product_attributes": [],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 308,
+                "product": 458,
+                "image": "https://bee.webtm.ru/media/product_images/1_zzsZr7k.png"
+            }
+        ],
+        "price": 11800,
+        "old_price": 12300,
+        "currency": "KGS",
+        "shop_name": "baget",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+        "review_count": 0,
+        "product_code": "3322242981",
+        "average_rating": null,
+        "created": "2024-03-02T13:06:52.820813+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 366,
+        "shop": 8,
+        "category": [
+            221
+        ],
+        "title": "Ирригатор CS Medica Family AquaPulsar CS-32",
+        "description": "Тип: ирригатор\r\nНазначение: гигиена полости рта\r\nЦвет: белый\r\n\r\nПроизводительность\r\nЧастота пульсации: 4500 импульсов в минуту\r\nУровень давления жидкости: 150 - 1000 кПа\r\nКоличество режимов работы: 2\r\nОбъем резервуара для жидкости: 850 мл\r\n\r\nЭлектропитание\r\nИсточник питания: электросеть\r\nДлина электрокабеля: 200 см\r\n\r\nДополнительная информация\r\nСветодиодная подсветка резервуара: есть\r\nКоличество насадок в комплекте: 7",
+        "image": "https://bee.webtm.ru/media/product_images/OIP_13.jpg",
+        "product_attributes": [],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 164,
+                "product": 366,
+                "image": "https://bee.webtm.ru/media/product_images/OIP_13_gZJxBqa.jpg"
+            }
+        ],
+        "price": 7999,
+        "old_price": 8398,
+        "currency": "KGS",
+        "shop_name": "baget",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+        "review_count": 0,
+        "product_code": "2170402431",
+        "average_rating": null,
+        "created": "2024-02-15T20:35:12.642127+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 428,
+        "shop": 7,
+        "category": [
+            277,
+            283
+        ],
+        "title": "Дождевик Русский Дождевик, размер 48-60, зеленый",
+        "description": "Мужской дождевик с капюшоном изготовлен из легкого, прочного и полностью непромокаемого полиэстера таффета плотностью 65 г/м2. Гарантированная водоупорность ткани составляет не менее 1000 мм. водяного столба (PU1000). Такая накидка от дождя прекрасно подходит для продолжительных работ в условиях непогоды, а также для рыбалки, туристических походов, трекинга, прогулок и велотуризма.\r\nВодонепроницаемый плащ выполнен в стиле классического пончо, что позволяет надевать его поверх куртки или костюма и даже накрывать рюкзак среднего объема. Плащ от дождя многоразовый, упаковывается в небольшой чехол и занимает минимум места в сумке.\r\nМатериал плаща-дождевика не рвется при зацеплении за кусты и ветки, в отличие от одноразовых полиэтиленовых дождевичков. Даже если в плащевке образовался разрыв, он не будет расползаться и его можно просто зашить.\r\nТакже текстильный мужской дождевик снабжен капюшоном со шнурком-регулировкой для удобства и лучшей защиты лица от капель и ветра.\r\nПокрой дождевика пончо свободный (oversize), спокойно можно надеть на верхнюю одежду и защититься от капризов погоды. Размерный диапазон для комфортного использования от 48 до 60.\r\nИдеальный непромокаемый плащ для рыбалки, выездов за грибами, туризма, охоты, треккинга в горах и другого активного отдыха на природе. Все швы мужского дождевика пончо дополнительно проклеены герметизирующей лентой, чтобы выдерживать любой ливень с ветром.\r\nПо бокам этот демисезонный дождевой плащ застегивается с помощью металлических кнопок, образуя рукава длиной 3/4. Такие водонепроницаемые тканевые туристические дождевики и накидки от дождя в виде пончо заменят водоотталкивающую ветровку или не промокающий зонт и подойдут как взрослым мужчинам, так и женщинам (унисекс), а также подросткам для поездок на дачу. Такой рыбацкий дождевичок всегда удобно иметь под рукой именно там, где вас в любой момент может застать гроза.",
+        "image": "https://bee.webtm.ru/media/product_images/no_image.png",
+        "product_attributes": [
+            {
+                "key": "Цвет товара",
+                "value": "Оливковый"
+            },
+            {
+                "key": "Тип",
+                "value": "Дождевик"
+            },
+            {
+                "key": "Стиль",
+                "value": "Спортивный"
+            },
+            {
+                "key": "Сезон",
+                "value": "всесезон"
+            },
+            {
+                "key": "Материал верха",
+                "value": "полиэфир"
+            },
+            {
+                "key": "Силуэт",
+                "value": "Свободный"
+            },
+            {
+                "key": "Застежка",
+                "value": "завязки, кнопки"
+            },
+            {
+                "key": "Рукав",
+                "value": "укороченный"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 259,
+                "product": 428,
+                "image": "https://bee.webtm.ru/media/product_images/600x800_K03290Q.webp"
+            },
+            {
+                "id": 260,
+                "product": 428,
+                "image": "https://bee.webtm.ru/media/product_images/600x800_1_ZPQJglK.webp"
+            }
+        ],
+        "price": 1140,
+        "old_price": 1197,
+        "currency": "KGS",
+        "shop_name": "stroybek",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/_93727c8f-1d8f-4af1-aa4c-46caf28d6bbd.jpg",
+        "review_count": 0,
+        "product_code": "1018000517",
+        "average_rating": null,
+        "created": "2024-02-24T13:16:58.130030+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 389,
+        "shop": 2,
+        "category": [
+            193
+        ],
+        "title": "Увлажнитель воздуха Electrolux EHU-3715D",
+        "description": "Идеальная частота\r\nУвлажнитель воздуха Electrolux EHU-3715D может работать в режиме \"Тёплый пар\"-. При этом он помогает поддерживать постоянную температуру окружающего воздуха, что особенно важно в зимнее время. Устройство оснащено ионизатором и системой ультрафиолетовой очистки воды. Оно способно уничтожать большую часть вредоносных бактерий, вызывающих опасные заболевания человека. Фильтр увлажнителя удаляет твёрдые частицы и посторонние примеси, способствующие образованию накипи.",
+        "image": "https://bee.webtm.ru/media/product_images/img_0_17_61_0_1_160.webp",
+        "product_attributes": [
+            {
+                "key": "Тип",
+                "value": "Ультразвуковой"
+            },
+            {
+                "key": "Назначение прибора",
+                "value": "Увлажнение воздуха"
+            },
+            {
+                "key": "Тип управления",
+                "value": "Сенсорное"
+            },
+            {
+                "key": "Площадь помещения",
+                "value": "45 м²"
+            },
+            {
+                "key": "Объем резервуара",
+                "value": "5 л"
+            },
+            {
+                "key": "Ионизация",
+                "value": "Да"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 207,
+                "product": 389,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_17_61_2_6_160.webp"
+            },
+            {
+                "id": 208,
+                "product": 389,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_17_61_1_6_160.webp"
+            },
+            {
+                "id": 209,
+                "product": 389,
+                "image": "https://bee.webtm.ru/media/product_images/img_0_17_61_0_6_160.webp"
+            }
+        ],
+        "price": 9290,
+        "old_price": 9754,
+        "currency": "KGS",
+        "shop_name": "Kuma",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+        "review_count": 0,
+        "product_code": "2031557262",
+        "average_rating": null,
+        "created": "2024-02-22T19:18:53.040345+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 437,
+        "shop": 7,
+        "category": [
+            74,
+            298
+        ],
+        "title": "Картон плотный белый А4 Мелованный (белый оборот), 50 листов, в пленке, Brauberg, 210х297 мм, 113562",
+        "description": "Набор белого картона BRAUBERG предназначен для творчества и хобби, рекомендован для уроков труда и технологии. Может использоваться детьми с трехлетнего возраста.\r\nМелованный целлюлозный двусторонний ярко-белый картон BRAUBERG обладает плотностью 200 г/м2, имеет глянцевую поверхность, благодаря чему сохраняет белизну на протяжении длительного времени. Предназначен для подшивки документов, а также для творчества. Поделки и аппликации из него будут яркими и красивыми. Картон поможет воплотить в жизнь любую творческую задумку. В наборе 50 листов картона белого цвета формата А4 (210х297 мм). Творческая инструкция по созданию аппликации на обороте этикетки.\r\n• Формат: А4.\r\n• Количество листов: 50.\r\n• Плотность картона: 200 г/м2.\r\n• Применим для подшивки документов: да.\r\n• Мелованный картон: да.\r\n• Двусторонний: да.\r\n• Тип товара: картон белый мелованный EXTRA.\r\n• Вид обложки: вкладыш формата А5.\r\n• Дизайн: Павлин.\r\n• Длина: 210 мм.\r\n• Ширина: 297 мм.\r\n• Индивидуальная упаковка: да.\r\n• Упаковка: пленка.",
+        "image": "https://bee.webtm.ru/media/product_images/no_image.png",
+        "product_attributes": [
+            {
+                "key": "Цвет товара",
+                "value": "белый"
+            },
+            {
+                "key": "Тип",
+                "value": "белый картон"
+            },
+            {
+                "key": "Особенности",
+                "value": "двухсторонняя, мелованная поверхность"
+            },
+            {
+                "key": "Формат",
+                "value": "A4"
+            },
+            {
+                "key": "Количество цветов",
+                "value": "1"
+            },
+            {
+                "key": "Плотность",
+                "value": "200 г/м2"
+            }
+        ],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 276,
+                "product": 437,
+                "image": "https://bee.webtm.ru/media/product_images/600x800_2_oHBVtDh.webp"
+            },
+            {
+                "id": 277,
+                "product": 437,
+                "image": "https://bee.webtm.ru/media/product_images/600x800_3_fjaSugD.webp"
+            }
+        ],
+        "price": 283,
+        "old_price": 297,
+        "currency": "KGS",
+        "shop_name": "stroybek",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/_93727c8f-1d8f-4af1-aa4c-46caf28d6bbd.jpg",
+        "review_count": 0,
+        "product_code": "1018082714",
+        "average_rating": null,
+        "created": "2024-02-24T16:57:37.294066+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    },
+    {
+        "id": 356,
+        "shop": 8,
+        "category": [
+            208
+        ],
+        "title": "Выпрямитель-гофре для волос MG-175P Magio",
+        "description": "простое механическое управление;\r\n- автоматический нагрев до оптимальной температуры;\r\n- «рабочая» температура — 180 °С;\r\n- полностью нагревается примерно за 120 секунд;\r\n- размер пластин — 7.3x3.5 см;\r\n- керамическое покрытие;\r\n- индикатор нагрева;\r\n- мощность — 25 Вт;\r\n- шнур на шарнире — 1,5 м;\r\n- для выпрямления волос, а также создания маленьких и крупных гофре.",
+        "image": "https://bee.webtm.ru/media/product_images/OIP_4.jpg",
+        "product_attributes": [],
+        "product_configurator": [],
+        "product_images": [
+            {
+                "id": 152,
+                "product": 356,
+                "image": "https://bee.webtm.ru/media/product_images/OIP_4_i082yz8.jpg"
+            }
+        ],
+        "price": 2280,
+        "old_price": 2394,
+        "currency": "KGS",
+        "shop_name": "baget",
+        "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+        "review_count": 0,
+        "product_code": "2254900720",
+        "average_rating": null,
+        "created": "2024-02-15T19:16:00.715088+06:00",
+        "weight": null,
+        "length": null,
+        "width": null
+    }
+]
